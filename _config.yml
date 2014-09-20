@@ -12,9 +12,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: YPPBlog
 
-description: Stylish Jekyll Theme
+description: Devote myself to learning,Keep on moving!
 author:
   name: cherish
   email: user@address.com
